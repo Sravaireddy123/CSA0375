@@ -114,5 +114,3 @@ int main()
   printf("Factorial of %d is %ld\n", number, fact);  
   return 0;  
 }
-<img width="960" alt="2022-09-20" src="https://user-images.githubusercontent.com/112490847/191203620-a2f36194-30d5-46b7-961b-1e7ed32f56fc.png">
-
