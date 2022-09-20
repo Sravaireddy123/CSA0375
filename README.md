@@ -68,4 +68,51 @@ int main()
 
 <img width="960" alt="2022-09-20 (2)" src="https://user-images.githubusercontent.com/112490847/191201481-bf18cfc2-6337-459a-8845-3aeddff3447e.png">
 
-PROGRAM 3:
+PROGRAM 3:FACTORIAL WITHOUT RECURSION
+
+#include<stdio.h>  
+    
+   
+int main()  
+{  
+  int number;  
+  long fact;  
+  printf("Enter a number: ");  
+  scanf("%d", &number);   
+   
+  fact = factorial(number);  
+  printf("Factorial of %d is %ld\n", number, fact);  
+  return 0;  
+}
+
+#include<stdio.h>  
+    
+   
+int main()  
+{  
+  int number;  
+  long fact;  
+  printf("Enter a number: ");  
+  scanf("%d", &number);   
+   
+  fact = factorial(number);  
+  printf("Factorial of %d is %ld\n", number, fact);  
+  return 0;  
+}
+
+#include<stdio.h>  
+    
+   
+int main()  
+{  
+  int number;  
+  long fact;  
+  printf("Enter a number: ");  
+  scanf("%d", &number);   
+   
+  fact = factorial(number);  
+  printf("Factorial of %d is %ld\n", number, fact);  
+  return 0;  
+}
+<img width="960" alt="2022-09-20" src="https://user-images.githubusercontent.com/112490847/191203620-a2f36194-30d5-46b7-961b-1e7ed32f56fc.png">
+
